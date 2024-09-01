@@ -1,3 +1,3 @@
-module github.com/TheBoringDude/simple-filetest
+module github.com/tbdsux/simple-filetest
 
 go 1.16
